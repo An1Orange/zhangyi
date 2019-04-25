@@ -1,0 +1,88 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	<title>Home</title>
+	<meta charset="utf-8" />
+    <title>一颗橙子</title>
+	<link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">  
+	<script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+	<script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<style>
+    .fakeimg {
+        height: 200px;
+         background: rgb(255, 255, 255);
+    }
+  </style>
+</head>
+<body>
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <img src="image\1.jpg" >
+  <h1>一颗橙子</h1>
+  <p>AN ORANGE</p> 
+  </div>
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#">ORANGE</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">HOME</a></li>
+        <li><a href="#">SPACE</a></li>
+        <li><a href="#">PLANET</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <h2>A STORY OF ORANGE</h2>
+      <h5>PICTURE</h5>
+      <div class="fakeimg"><img src="image\078.JPG" ></div>
+      <p> </p>
+      <h3>橘子星球</h3>
+      <p>有关橘子</p>
+      <ul class="nav nav-pills nav-stacked">
+        <li class="active"><a href="#">橘子的故事</a></li>
+        <li><a href="file:///C:/Users/1234/Desktop/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%E5%85%A5%E9%A9%BB%E6%98%9F%E7%90%83.html">入驻星球</a></li>
+        <li><a href="file:///C:/Users/1234/Desktop/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%A9%98%E5%AD%90%E7%83%AD%E7%BA%BF.html">橘子热线</a></li>
+      </ul>
+      <hr class="hidden-sm hidden-md hidden-lg">
+    </div>
+    <div class="col-sm-8">
+        <h2>文</h2>
+        <h5>蹙损他淡淡春山-</h5>
+        <div class="fakeimg"><img src="image\140.JPG" ></div>
+        <p>想去爬雪山，去散步，躺在沙发上一动不动，去最喜欢的歌手台下欢呼，经历快乐，也经历别人的快乐，想挥霍时间，也想被时间挥霍。
+           ​​​</p>
+        <p>
+          知道吗，今天会过去，明天会过去，疼痛不会，它会刻在生命里，在快乐的时候打碎快乐，在痛苦的时候重叠痛苦，只有变成风沙，才能安静的等待下一个春天。 ​​​</p>
+        <br>
+        <h2>文</h2>
+        <h5>李倦容</h5>
+        <div class="fakeimg"><img src="image\earth.JPG" ></div>
+        <p>太空初见，行星七颗当见面礼。
+          唐诗三百已不值一提。
+          
+        </p>
+        <p>                                     ——《银河诗集·地球琐事》​​​</p>
+        <p>
+          你知道吗？我们正生活在人类文明与艺术的尾声，一旦踏入无尽太空，一切美学便失效了。 ​​​</p>
+      </div>
+  </div>
+</div>
+
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <p>Everyone's a little planet</p>
+</div>
+</body>
+</html>
